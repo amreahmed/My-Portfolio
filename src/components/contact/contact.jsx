@@ -3,9 +3,7 @@ import React from 'react'
 const contact = () => {
   return (
     
-      <div>
-        contact
-      </div>
+    <section id='contact'>contact</section>
   
   )
 }
