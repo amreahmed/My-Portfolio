@@ -1,11 +1,11 @@
 import React from 'react'
 import "./nav.css"
-const nav = () => {
+const Nav = () => {
   return (
     <div>
-      
+      NAV
     </div>
   )
 }
 
-export default nav
+export default Nav
