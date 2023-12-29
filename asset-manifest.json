@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.75e13bec.css",
-    "main.js": "/my-portfolio/static/js/main.523954a8.js",
-    "static/media/Create A pro DIscord bot.png": "/my-portfolio/static/media/Create A pro DIscord bot.3889b5def78aa9e72407.png",
-    "static/media/my.png": "/my-portfolio/static/media/my.7ae428db7e0d4254833e.png",
-    "static/media/photo_2023-12-29_03-17-56.jpg": "/my-portfolio/static/media/photo_2023-12-29_03-17-56.934d48541c402b5902b9.jpg",
-    "static/media/CV.pdf": "/my-portfolio/static/media/CV.cc76ee41b6b6822747a6.pdf",
-    "index.html": "/my-portfolio/index.html",
-    "main.75e13bec.css.map": "/my-portfolio/static/css/main.75e13bec.css.map",
-    "main.523954a8.js.map": "/my-portfolio/static/js/main.523954a8.js.map"
+    "main.css": "/My-portfolio/static/css/main.75e13bec.css",
+    "main.js": "/My-portfolio/static/js/main.d7e19cb0.js",
+    "static/media/Create A pro DIscord bot.png": "/My-portfolio/static/media/Create A pro DIscord bot.3889b5def78aa9e72407.png",
+    "static/media/my.png": "/My-portfolio/static/media/my.7ae428db7e0d4254833e.png",
+    "static/media/photo_2023-12-29_03-17-56.jpg": "/My-portfolio/static/media/photo_2023-12-29_03-17-56.934d48541c402b5902b9.jpg",
+    "static/media/CV.pdf": "/My-portfolio/static/media/CV.cc76ee41b6b6822747a6.pdf",
+    "index.html": "/My-portfolio/index.html",
+    "main.75e13bec.css.map": "/My-portfolio/static/css/main.75e13bec.css.map",
+    "main.d7e19cb0.js.map": "/My-portfolio/static/js/main.d7e19cb0.js.map"
   },
   "entrypoints": [
     "static/css/main.75e13bec.css",
-    "static/js/main.523954a8.js"
+    "static/js/main.d7e19cb0.js"
   ]
 }
