@@ -10,6 +10,10 @@ header {
     position: relative;
 }
 
+.name__span {
+    color: var(--color-primary);
+}
+
 
 /*! CTA */
 
@@ -32,6 +36,7 @@ header {
     position: absolute;
     left: 0;
     bottom: 3rem;
+    font-size: 1.5rem;
 }
 
 .header__socials::after {
@@ -39,6 +44,7 @@ header {
     width: 1px;
     height: 2rem;
     background: var(--color-primary);
+    
 }
 
 
@@ -53,7 +59,7 @@ header {
     margin-top: 6.5rem;
     border-radius: 12rem 12rem 0 0;
     overflow: hidden;
-    padding: 5rem 1.5rem 1.5rem 1.5rem;
+    padding: 5.3rem 1.5rem 1.5rem 1.5rem;
 }
 
 
@@ -66,7 +72,7 @@ header {
     bottom: 5rem;
     transform: rotate(90deg);
     font-weight: 200;
-    font-size: 0.9rem;
+    font-size: 1rem;
 }
 
 
