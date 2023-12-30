@@ -1,18 +1,23 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.75e13bec.css",
-    "main.js": "/My-Portfolio/static/js/main.8c5ad604.js",
-    "static/media/design.png": "/My-Portfolio/static/media/design.a7c027658ce617f2883b.png",
-    "static/media/Create A pro DIscord bot.png": "/My-Portfolio/static/media/Create A pro DIscord bot.3889b5def78aa9e72407.png",
+    "main.js": "/My-Portfolio/static/js/main.042c4436.js",
+    "static/media/Frame 43.png": "/My-Portfolio/static/media/Frame 43.4126466737c8853f81b4.png",
+    "static/media/Frame 30.png": "/My-Portfolio/static/media/Frame 30.2f4f68559334d03ef5f5.png",
+    "static/media/PORFTOFLIOUI.png": "/My-Portfolio/static/media/PORFTOFLIOUI.b7c682e38190f19739b0.png",
+    "static/media/Frame 36 (1).png": "/My-Portfolio/static/media/Frame 36 (1).cb4bfc9f3fed523270fe.png",
     "static/media/my.png": "/My-Portfolio/static/media/my.7ae428db7e0d4254833e.png",
+    "static/media/Frame 34.png": "/My-Portfolio/static/media/Frame 34.0c7c86ec8ce4e228cfad.png",
     "static/media/photo_2023-12-29_03-17-56.jpg": "/My-Portfolio/static/media/photo_2023-12-29_03-17-56.934d48541c402b5902b9.jpg",
     "static/media/CV.pdf": "/My-Portfolio/static/media/CV.cc76ee41b6b6822747a6.pdf",
+    "static/media/WhatsApp Image 2023-12-30 at 17.04.05_991d61ee.jpg": "/My-Portfolio/static/media/WhatsApp Image 2023-12-30 at 17.04.05_991d61ee.f14f2b5814367dff16a3.jpg",
+    "static/media/c2e859d0.webp": "/My-Portfolio/static/media/98bdbc20c63542486d637248372c47eec2e859d0.d00678f0a2754c891833.webp",
     "index.html": "/My-Portfolio/index.html",
     "main.75e13bec.css.map": "/My-Portfolio/static/css/main.75e13bec.css.map",
-    "main.8c5ad604.js.map": "/My-Portfolio/static/js/main.8c5ad604.js.map"
+    "main.042c4436.js.map": "/My-Portfolio/static/js/main.042c4436.js.map"
   },
   "entrypoints": [
     "static/css/main.75e13bec.css",
-    "static/js/main.8c5ad604.js"
+    "static/js/main.042c4436.js"
   ]
 }
