@@ -1,13 +1,13 @@
 import React from 'react'
 import "./portfolio.css"
 import IMG from "../../assets/Create A pro DIscord bot.png"
-import Portfolio from "../../assets/design.png"
+import PORTFOLIO from "../../assets/design.png"
 
 
 const data = [
   {
     id: 1,
-    image: Portfolio,
+    image: PORTFOLIO,
     title: 'My Portfolio',
     github: 'https://github.com/amreahmed/My-portfolio',
     demo: 'https://amreahmed.github.io/My-portfolio'
