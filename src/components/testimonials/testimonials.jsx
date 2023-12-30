@@ -1,7 +1,6 @@
 import React from "react";
 import "./testimonials.css";
-import IMG from "../../assets/photo_2023-12-29_03-17-56.jpg";
-import ASHTON from "../../assets/WhatsApp Image 2023-12-30 at 17.04.05_991d61ee.jpg"
+import ASHTON from "../../assets/ashton.jpg"
 // import Swiper core and required modules
 import {  Pagination } from 'swiper/modules';
 

@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import ME from "../../assets/photo_2023-12-29_03-17-56.jpg";
+import ME from "../../assets/me.jpg";
 import { BsAward } from "react-icons/bs";
 import { LiaUsersSolid } from "react-icons/lia";
 import { TbDeviceDesktopCode } from "react-icons/tb";

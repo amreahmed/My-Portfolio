@@ -24,6 +24,21 @@ header {
     justify-content: center;
 }
 
+.cta__a {
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.cta__icon {
+    justify-content: center;
+    align-items: center;
+    font-size: 1.3rem;
+    margin-top: 1rem;
+    font-weight: 500;
+    cursor:pointer;
+
+}
 
 /*todo: style for social icons  */
 

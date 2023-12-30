@@ -1,11 +1,11 @@
 import React from 'react'
 import "./portfolio.css"
-import IMG from "../../assets/98bdbc20c63542486d637248372c47eec2e859d0.webp"
-import PORTFOLIO from "../../assets/Frame 30.png"
-import UIA from "../../assets/PORFTOFLIOUI.png"
-import CLUX from "../../assets/Frame 34.png"
-import XMAS from "../../assets/Frame 36 (1).png"
-import MINI from "../../assets/Frame 43.png"
+import IMG from "../../assets/discord.webp"
+import PORTFOLIO from "../../assets/portfolio1.png"
+import UIA from "../../assets/portfolio2.png"
+import CLUX from "../../assets/clux.png"
+import XMAS from "../../assets/xmas.png"
+import MINI from "../../assets/mini.png"
 
 
 const data = [
