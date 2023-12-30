@@ -7,8 +7,8 @@ const CTA = () => {
   const { t, i18n } = useTranslation();
   return (
     <div className="cta">
-    <a href= {CV} download className='btn'> Download CV</a>
-    <a href="#contact" className='btn btn-primary'>Let's Talk</a>
+    <a href= {CV} download className='btn'> {t('cv_btn')}</a>
+    <a href="#contact" className='btn btn-primary'>{t('title_btn')}</a>
     {i18n.language == "en" && <a onClick= {() => {
       i18n.changeLanguage('ar');
     }} 
