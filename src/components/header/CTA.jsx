@@ -1,6 +1,6 @@
 import React from 'react'
 import CV from '../../assets/CV.pdf'
-import { IoLanguageOutline } from "react-icons/io5";
+import { GrLanguage } from "react-icons/gr";
 import { useTranslation } from 'react-i18next';
 
 const CTA = () => {
@@ -12,12 +12,12 @@ const CTA = () => {
     {i18n.language == "en" && <a onClick= {() => {
       i18n.changeLanguage('ar');
     }} 
-    className='cta__a'><IoLanguageOutline className='cta__icon' /> AR</a>}
+    className='cta__a'><GrLanguage className='cta__icon' /> AR</a>}
 
 
     {i18n.language == 'ar' && <a className='cta__a' onClick= {() => {
       i18n.changeLanguage('en');
-    }}><IoLanguageOutline className='cta__icon' /> EN</a>}
+    }}><GrLanguage className='cta__icon' /> EN</a>}
     </div>
   )
 }

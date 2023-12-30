@@ -1,11 +1,32 @@
 {
+    
     "title_h5": "Hello, I'm",
     "title_h1": "Amr",
     "title_h1_span": "Ezzat",
     "subtitle_h5": "Fullstack Developer",
     "title_btn": "Let's Talk",
     "cv_btn":"Download CV",
-    "scroll": "Scroll Down"
+    "scroll": "Scroll Down",
+    "about_h5": "Get To Know",
+    "about_h2": "About Me",
+    "about_p": "Hi there, I am Amr, a 21-year-old engineering student from Cairo, Egypt. I began learning to code six years ago when I enrolled in my first HTML class at school and discovered that I truly enjoyed coding. I gained a lot of knowledge about front-end and back-end development.",
+    "about_btn":"Contact Me",
+    "about_card":"Experince",
+    "about_card1":"Clients",
+    "about_card2":"Projects",
+    "about_card_p":"4+ Years Working",
+    "about_card_p1":"100+ Worldwide",
+    "about_card_p2":"50+ Completed Projects",
+    "skills_h5":"What Skills I Have",
+    "skills_h2":"My Experience",
+    "services_h5":"What I Offer",
+    "services_h2":"Services",
+    "portfolio_h5":"My Recent Work",
+    "portfolio_h2":"Portfolio",
+    "portfolio_btn":"Live Demo",
+    "reviews_h5":"Our Clients",
+    "reviews_h2":"Reviews"
+    
 
 
 

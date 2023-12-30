@@ -6,6 +6,7 @@ import UIA from "../../assets/portfolio2.png"
 import CLUX from "../../assets/clux.png"
 import XMAS from "../../assets/xmas.png"
 import MINI from "../../assets/mini.png"
+import { useTranslation } from 'react-i18next';
 
 
 const data = [
@@ -56,10 +57,11 @@ const data = [
 
 
 const Portfolio = () => {
+  const { t } = useTranslation();
   return (
     <section id='portfolio'>
-      <h5>My Recent Work</h5>
-      <h2>Portfolio</h2>
+      <h5>{t("portfolio_h5")}</h5>
+      <h2>{t("portfolio_h2")}</h2>
       <div className="container portfolio__container">
       {
         data.map(({id,image,title,github,demo}) => {
@@ -71,7 +73,7 @@ const Portfolio = () => {
             <h3>{title}</h3>
             <div className="portfolio__item-cta">
             <a href={github} target="_blank" className='btn'>Github</a>
-            <a href={demo} target="_blank" className='btn btn-primary'>Live Demo</a>
+            <a href={demo} target="_blank" className='btn btn-primary'>{t("portfolio_btn")}</a>
             </div>
           </article>    
           )

@@ -5,6 +5,7 @@ import ASHTON from "../../assets/ashton.jpg"
 import {  Pagination } from 'swiper/modules';
 
 import { Swiper, SwiperSlide } from 'swiper/react';
+import { useTranslation } from 'react-i18next';
 
 // Import Swiper styles
 import 'swiper/css';
@@ -31,10 +32,11 @@ const data = [
 ];
 
 const Testimonials = () => {
+  const { t } = useTranslation();
   return (
     <section id="reviews">
-      <h5>Our Clients</h5>
-      <h2>Reviews</h2>
+      <h5>{t("reviews_h5")}</h5>
+      <h2>{t("reviews_h2")}</h2>
 
       <Swiper
        modules={[Pagination]}

@@ -1,11 +1,14 @@
 import React from "react";
 import "./survices.css";
 import { BiCheck } from "react-icons/bi";
+import { useTranslation } from 'react-i18next';
+
 const Survices = () => {
+  const { t } = useTranslation();
   return (
     <section id="services">
-      <h5>What I Offer</h5>
-      <h2>Services</h2>
+      <h5>{t("services_h5")}</h5>
+      <h2>{t("services_h2")}</h2>
       <div className="container services__container">
         {/* ui/ux */}
 

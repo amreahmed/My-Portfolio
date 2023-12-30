@@ -25,16 +25,16 @@ header {
 }
 
 .cta__a {
+    display: flex;
+    gap: 0.5rem;
     justify-content: center;
     align-items: center;
     cursor: pointer;
 }
 
 .cta__icon {
-    justify-content: center;
-    align-items: center;
+
     font-size: 1.3rem;
-    margin-top: 1rem;
     font-weight: 500;
     cursor:pointer;
 

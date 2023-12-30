@@ -13,12 +13,14 @@ import { SiPhp } from "react-icons/si";
 import { TbBrandMysql } from "react-icons/tb";
 import { FaPython } from "react-icons/fa";
 import { SiCsharp } from "react-icons/si";
+import { useTranslation } from 'react-i18next';
 
 const Experince = () => {
+  const { t } = useTranslation();
   return (
     <section id="expirenice">
-      <h5>What Skills I Have</h5>
-      <h2>My Experience</h2>
+      <h5>{t("skills_h5")}</h5>
+      <h2>{t("skills_h2")}</h2>
 
       <div className="container experience__container">
         <div className="experience__frontend">
