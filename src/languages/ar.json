@@ -24,6 +24,18 @@
     "portfolio_h2":"معرض الاعمال",
     "portfolio_btn":"نسخه تجربيبه",
     "reviews_h5":"اراء",
-    "reviews_h2":"العملاء"
+    "reviews_h2":"العملاء",
+    "contact_h5":"مستني ايه ؟",
+    "contact_h2":"تواصل معايا",
+    "place1":"اسمك بالكامل",
+    "place2":"البريد الالكتروني",
+    "place3":"رسالتك",
+    "contact_btn":"ابعت رساله",
+    "swal":"تم الارسال",
+    "email":"ايميل",
+    "telegram":"تلجرام",
+    "whatsapp":"واتساب",
+    "message_send":"ابعت رساله"
+
 
 }

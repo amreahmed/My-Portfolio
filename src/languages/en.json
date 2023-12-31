@@ -25,7 +25,19 @@
     "portfolio_h2":"Portfolio",
     "portfolio_btn":"Live Demo",
     "reviews_h5":"Our Clients",
-    "reviews_h2":"Reviews"
+    "reviews_h2":"Reviews",
+    "contact_h5":"Get In Tuch",
+    "contact_h2":"Contact Me",
+    "place1":"Your Full Name",
+    "place2":"Your Email",
+    "place3":"Your Message",
+    "contact_btn":"Send Message",
+    "swal":"Done",
+    "email":"Email",
+    "telegram":"Telegram",
+    "whatsapp":"Whatsapp",
+    "message_send":"Send a Message"
+
     
 
 
